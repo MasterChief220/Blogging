@@ -12,7 +12,10 @@ that you remove all references to me from it, including:
 
 Thanks.
 
-## It's big though
+## Changes Made
+Added lastfm-recent.js in assets/js
+added lastfm.css in assets/css
+added activity.md to make a separate page for showing last.fm etc
 
-But honestly, you probably should not fork it. You should copy it wholesale
-into a new Git repository because the history contains some large assets.
+> We can use navbar.md in _includes to add/modify pages.
+
