@@ -1,0 +1,33 @@
+.lastfm-bar {
+  display: flex;
+  gap: 0.75rem;
+  overflow-x: auto;
+  padding-bottom: 0.25rem;
+  scroll-snap-type: x mandatory;
+}
+
+.lastfm-item {
+  display: grid;
+  grid-template-columns: 56px 1fr;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  color: inherit;
+}
+.lastfm-item:hover { background: #fafafa; }
+.lastfm-art {
+  width: 56px; height: 56px; object-fit: cover; border-radius: 0.375rem;
+}
+.lastfm-meta { display: grid; align-content: center; }
+.lastfm-title { font-weight: 600; line-height: 1.2; }
+.lastfm-artist, .lastfm-plays { font-size: 0.85rem; color: #6b7280; }
+.lastfm-loading, .lastfm-error, .lastfm-empty { color: #6b7280; font-size: 0.9rem; }
+
+.lastfm-now {
+  font-size: 0.8em;
+  margin-left: 0.35rem;
+  vertical-align: middle;
+}
+
