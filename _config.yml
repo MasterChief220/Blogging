@@ -1,10 +1,10 @@
 # Site settings
 title: Max Bernstein
 # Site's name
-name: Max Bernstein's Blog
-author: Max Bernstein
+name: Blog
+author: Bassam Khan
 author_nickname: Max Bernstein
-email: max@bernsteinbear.com
+email: bassam.exe@gmail.com
 description: ""
 baseurl: ""
 url: "https://bernsteinbear.com"
