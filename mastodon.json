@@ -73568,6 +73568,44 @@
         "manual": [],
         "current_user": "denied"
       }
+    },
+    "116527324578442917": {
+      "id": "116527324578442917",
+      "created_at": "2026-05-06T11:11:05.760Z",
+      "in_reply_to_id": null,
+      "in_reply_to_account_id": null,
+      "sensitive": false,
+      "spoiler_text": "",
+      "visibility": "public",
+      "language": "en",
+      "uri": "https://mastodon.social/users/tekknolagi/statuses/116527324578442917",
+      "url": "https://mastodon.social/@tekknolagi/116527324578442917",
+      "replies_count": 1,
+      "reblogs_count": 0,
+      "favourites_count": 3,
+      "quotes_count": 0,
+      "edited_at": null,
+      "content": "<p>People keep saying stuff like &quot;Ruby is a Smalltalk&quot; so I think it would be fun to implement a Smalltalk with Ruby syntax. Or on top of Ruby VM. Or both?</p>",
+      "reblog": null,
+      "application": {
+        "name": "Mastodon for Android",
+        "website": "https://app.joinmastodon.org/android"
+      },
+      "media_attachments": [],
+      "mentions": [],
+      "tags": [],
+      "emojis": [],
+      "tagged_collections": [],
+      "quote": null,
+      "card": null,
+      "poll": null,
+      "quote_approval": {
+        "automatic": [
+          "public"
+        ],
+        "manual": [],
+        "current_user": "denied"
+      }
     }
   }
 }
