@@ -77774,6 +77774,44 @@
         "manual": [],
         "current_user": "denied"
       }
+    },
+    "117010789757036416": {
+      "id": "117010789757036416",
+      "created_at": "2026-07-30T20:22:38.942Z",
+      "in_reply_to_id": null,
+      "in_reply_to_account_id": null,
+      "sensitive": false,
+      "spoiler_text": "",
+      "visibility": "public",
+      "language": "en",
+      "uri": "https://mastodon.social/users/tekknolagi/statuses/117010789757036416",
+      "url": "https://mastodon.social/@tekknolagi/117010789757036416",
+      "replies_count": 0,
+      "reblogs_count": 0,
+      "favourites_count": 5,
+      "quotes_count": 0,
+      "edited_at": null,
+      "content": "<p>All that effort to implement sparse conditional constant propagation only to find out that fixpoint looping over RPO is faster</p>",
+      "reblog": null,
+      "application": {
+        "name": "Mastodon for Android",
+        "website": "https://app.joinmastodon.org/android"
+      },
+      "media_attachments": [],
+      "mentions": [],
+      "tags": [],
+      "emojis": [],
+      "tagged_collections": [],
+      "quote": null,
+      "card": null,
+      "poll": null,
+      "quote_approval": {
+        "automatic": [
+          "public"
+        ],
+        "manual": [],
+        "current_user": "denied"
+      }
     }
   }
 }
