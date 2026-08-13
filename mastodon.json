@@ -78738,6 +78738,115 @@
         "manual": [],
         "current_user": "denied"
       }
+    },
+    "117089652760371988": {
+      "id": "117089652760371988",
+      "created_at": "2026-08-13T18:38:32.897Z",
+      "in_reply_to_id": "117089535427885280",
+      "in_reply_to_account_id": "111916518290472342",
+      "sensitive": false,
+      "spoiler_text": "",
+      "visibility": "public",
+      "language": "en",
+      "uri": "https://mastodon.social/users/tekknolagi/statuses/117089652760371988",
+      "url": "https://mastodon.social/@tekknolagi/117089652760371988",
+      "replies_count": 0,
+      "reblogs_count": 0,
+      "favourites_count": 0,
+      "quotes_count": 0,
+      "edited_at": null,
+      "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://discuss.systems/@ahelwer\" class=\"u-url mention\">@<span>ahelwer</span></a></span> nah it&#39;s fun</p>",
+      "reblog": null,
+      "application": {
+        "name": "Mastodon for Android",
+        "website": "https://app.joinmastodon.org/android"
+      },
+      "media_attachments": [],
+      "mentions": [
+        {
+          "id": "111916518290472342",
+          "username": "ahelwer",
+          "url": "https://discuss.systems/@ahelwer",
+          "acct": "ahelwer@discuss.systems"
+        }
+      ],
+      "tags": [],
+      "emojis": [],
+      "tagged_collections": [],
+      "quote": null,
+      "card": null,
+      "poll": null,
+      "quote_approval": {
+        "automatic": [
+          "public"
+        ],
+        "manual": [],
+        "current_user": "denied"
+      }
+    },
+    "117089336219553884": {
+      "id": "117089336219553884",
+      "created_at": "2026-08-13T17:18:02.843Z",
+      "in_reply_to_id": null,
+      "in_reply_to_account_id": null,
+      "sensitive": false,
+      "spoiler_text": "",
+      "visibility": "public",
+      "language": "en",
+      "uri": "https://mastodon.social/users/tekknolagi/statuses/117089336219553884",
+      "url": "https://mastodon.social/@tekknolagi/117089336219553884",
+      "replies_count": 1,
+      "reblogs_count": 0,
+      "favourites_count": 7,
+      "quotes_count": 0,
+      "edited_at": null,
+      "content": "",
+      "reblog": null,
+      "application": {
+        "name": "Mastodon for Android",
+        "website": "https://app.joinmastodon.org/android"
+      },
+      "media_attachments": [
+        {
+          "id": "117089335503827806",
+          "type": "image",
+          "url": "https://files.mastodon.social/media_attachments/files/117/089/335/503/827/806/original/913fae65d60ae0ce.png",
+          "preview_url": "https://files.mastodon.social/media_attachments/files/117/089/335/503/827/806/small/913fae65d60ae0ce.png",
+          "remote_url": null,
+          "preview_remote_url": null,
+          "text_url": null,
+          "meta": {
+            "original": {
+              "width": 980,
+              "height": 976,
+              "size": "980x976",
+              "aspect": 1.0040983606557377
+            },
+            "small": {
+              "width": 481,
+              "height": 479,
+              "size": "481x479",
+              "aspect": 1.0041753653444676
+            }
+          },
+          "description": "Meme of cat looking down curiously at the viewer with greentext:\n\n> really interesting gc paper\n> looks inside\n> \"no cycles\"",
+          "blurhash": "UyL#2,W=%Mog_4RjM{jsfloJWBj[WBj[t7j["
+        }
+      ],
+      "mentions": [],
+      "tags": [],
+      "emojis": [],
+      "tagged_collections": [],
+      "quote": null,
+      "card": null,
+      "poll": null,
+      "quote_approval": {
+        "automatic": [
+          "public"
+        ],
+        "manual": [],
+        "current_user": "denied"
+      }
     }
   }
 }
