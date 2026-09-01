@@ -79906,6 +79906,44 @@
         "manual": [],
         "current_user": "denied"
       }
+    },
+    "117196012031877535": {
+      "id": "117196012031877535",
+      "created_at": "2026-09-01T13:27:06.567Z",
+      "in_reply_to_id": null,
+      "in_reply_to_account_id": null,
+      "sensitive": false,
+      "spoiler_text": "",
+      "visibility": "public",
+      "language": "en",
+      "uri": "https://mastodon.social/users/tekknolagi/statuses/117196012031877535",
+      "url": "https://mastodon.social/@tekknolagi/117196012031877535",
+      "replies_count": 0,
+      "reblogs_count": 1,
+      "favourites_count": 7,
+      "quotes_count": 0,
+      "edited_at": null,
+      "content": "<p>New paper with the ZJIT team! Local variables in Ruby are<br />... complicated.</p><p><a href=\"https://bernsteinbear.com/assets/img/support-local-variables.pdf\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bernsteinbear.com/assets/img/s</span><span class=\"invisible\">upport-local-variables.pdf</span></a></p>",
+      "reblog": null,
+      "application": {
+        "name": "Mastodon for Android",
+        "website": "https://app.joinmastodon.org/android"
+      },
+      "media_attachments": [],
+      "mentions": [],
+      "tags": [],
+      "emojis": [],
+      "tagged_collections": [],
+      "quote": null,
+      "card": null,
+      "poll": null,
+      "quote_approval": {
+        "automatic": [
+          "public"
+        ],
+        "manual": [],
+        "current_user": "denied"
+      }
     }
   }
 }
